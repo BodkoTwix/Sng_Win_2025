@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+.header{
+    width: 100%;
+    height: 143px;
+    background-color: #FF0003;
+}
+
+.link{
+    color: #000000;
+    text-decoration: none;
+    margin: 10px;
+    font-family: Vollkorn;
+    font-style: italic;
+    font-size: 30px;
+    margin-right: 70px;
+}
+
+.header_div{
+    text-align: center;
+    margin-left: 400px;
+    margin-top: -80px;
+}
+
+.main_img{
+    width: 100%;
+    height: 800px;
+}
+
+p{
+    font-family: Vollkorn;
+}
+
+.pronas_title{
+    color: #001AFF;
+    font-family: Vollkorn;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+.pronas_text{
+font-family: 'Vollkorn';
+font-style: normal;
+font-size: 32px;
+color: #000000;
+}
+
+.pronas_link{
+    color: #42FF00;
+    text-decoration: none;
+}
+
+.country_img{
+    width: 474px;
+    height: 266px;
+    margin-left: 23px;
+    margin-bottom: 39px;
+    margin-top: 39px;
+}
+
+.span{
+font-style: normal;
+font-weight: 800;
+font-size: 26px;
+color: #000000;
+}
+
+.country_text{
+    font-size: 26px;
+    margin-left: 300px;
+    margin-top: 69px;
+}
+
+.country_div{
+    display: flex;
+}
+
+.line{
+    border: #000000 solid 8px;
+}
+
+.footer_img{
+    width: 139px;
+    height: 139px;
+    margin: 120px;
+}
+
+.footer_div{
+    text-align: center;
+}
